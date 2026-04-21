@@ -1,1 +1,1 @@
-https://github.com/Arbuzik177/to-do-pre/settings
+https://github.com/Arbuzik177/to-do-pre
